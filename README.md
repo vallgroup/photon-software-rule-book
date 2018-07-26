@@ -8,3 +8,18 @@ Every one who writes code for Photon Software must always, without exception, fo
 * **Every task has a commit -** It is important to commit every change we complete
 
 Following these simple set of rules ensures collaborative team work without conflicts and allows us to produce scalable and maintainable code.
+
+### Reporting Bugs
+
+All bugs reported **MUST** include **ALL** of the following:  
+* A url to the page where the issue can be reproduced
+* Step-by-step instructions on how to reproduce the issue
+* A screenshot of the issue
+* A screenshot / design of the expected behavior (without the issue)
+* Name and version of the browser AND operating system used when the issue occurred
+
+**Bug reports missing any of the above information will be returned until completed.**
+
+### Wordpress Hosting
+
+All of our own Wordpress hosting is done via (https://pantheon.io/)[Pantheon.io]. Pantheon offers Wordpress specific hosting on an elastic server structure.
