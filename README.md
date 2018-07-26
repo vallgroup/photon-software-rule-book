@@ -22,4 +22,4 @@ All bugs reported **MUST** include **ALL** of the following:
 
 ### Wordpress Hosting
 
-All of our own Wordpress hosting is done via [https://pantheon.io/](Pantheon.io). Pantheon offers Wordpress specific hosting on an elastic server structure.
+All of our own Wordpress hosting is done via [Pantheon.io](https://pantheon.io/). Pantheon offers Wordpress specific hosting on an elastic server structure.
