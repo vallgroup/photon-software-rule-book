@@ -14,7 +14,9 @@ I vow to...
 
 The client will always have the freedom to choose their own hosting company. The hosting company along with necessary credentials will be provided with each project.
 
-If the client chooses our hosting services we for their Wordpress site we host it in our account at [Pantheon.io](https://pantheon.io/). Pantheon offers Wordpress specific hosting on an elastic server structure. It also has a built-in workflow that makes it easy to work within a team, test and deploy. With pantheon developers can simply clone the repo and begin working!
+If the client chooses our hosting services for their Wordpress site we host it in our account at [Pantheon.io](https://pantheon.io/). Pantheon offers Wordpress specific hosting on an elastic server structure. It also has a built-in workflow that makes it easy to work within a team, test and deploy. With pantheon developers can simply clone the repo and begin working!
+
+Learn more about Pantheon [here](https://pantheon.io/docs/).
 
 ### Docker
 
