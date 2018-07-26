@@ -1,6 +1,7 @@
 # Photon Software Rule Book
 
-Every one who writes code for Photon Software must always, without exception, follow a simple set of rules:  
+Every one who writes code for Photon Software must always, without exception, follow a simple set of rules:
+
 * **Comment all code -** Make it easier for future developers (including yourself) to jump right in and understand the logic  
 * **DRY -** Don't Reapeat Yourself. Always read through your code to spot inefficiencies  
 * **Every project has a repo -** Every line of code written must be under version control  
@@ -8,6 +9,12 @@ Every one who writes code for Photon Software must always, without exception, fo
 * **Every task has a commit -** It is important to commit every change we complete
 
 Following these simple set of rules ensures collaborative team work without conflicts and allows us to produce scalable and maintainable code.
+
+### Technology Specific Rules
+
+In addition to the set of rules listed above there are some technology specific rules that every developer at Photon Software must also follow. These rules would only apply if the technology is being utilized in the project.
+
+* [Wordpress](wordpress)
 
 ### Reporting Bugs
 
