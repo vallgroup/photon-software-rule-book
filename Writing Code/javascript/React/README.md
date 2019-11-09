@@ -20,7 +20,7 @@ function Example() {
   );
 }
 
-// BAD
+// BAD - arrow function
 function Example = () => {
   const [count, setCount] = useState(0);
 
@@ -43,8 +43,8 @@ class Example extends React.Component {
   }
 }
 
-// BAD
-const Example Reac.tcreateClass({
+// BAD - don't use createClass
+const Example = React.createClass({
   //...
 
   render() {
