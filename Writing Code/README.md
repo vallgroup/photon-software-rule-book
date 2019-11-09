@@ -22,8 +22,8 @@ As a Photon Software coder, you must always, without exception, follow this simp
 There are some technology (or language) specific rules that every developer at Photon Software must follow when applicable. If the project that you are working on utilizes one of these technologies or languages you must follow said technology's rules. Please read through and understand the following rules:  
 * [Wordpress](wordpress)  
 * [Javascript](javascript)  
-* [React]
-* PHP  
+* [React](javascript/React)
+* [PHP](PHP)  
 
 Following these simple set of rules allows us to produce scalable and maintainable code. Any developer that does not follow these rules will not be quilified to write code for Photon Software at any capacity.
 
