@@ -34,5 +34,5 @@ All assets, documentation, scope of work, or anything else related a project (ex
 
 Every morning at 10AM CST we have a 15 minutes status call where everyone has a chance to voice any concerns and update the team on their progress. We keep these calls short and to the point.
 
-Go to [Email etiquette](Email%20Etiquette).
+Go to [Email etiquette](../Email%20Etiquette).
 

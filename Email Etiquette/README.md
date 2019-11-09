@@ -12,4 +12,4 @@ Job Title
 Photon Software
 ```
 
-Go to [Schedule and business hours](Business%20Hours).
+Go to [Schedule and business hours](../Business%20Hours).

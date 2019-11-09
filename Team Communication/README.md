@@ -8,4 +8,4 @@ Some of our clients have their own channel assigned to them in slack where the p
 
 Once enrollment is complete and you receive a Photon.Software email address, you will be invited to slack.
 
-Got to [Tracking your progress and Project Management](Project%20Management).
+Got to [Tracking your progress and Project Management](../Project%20Management).
