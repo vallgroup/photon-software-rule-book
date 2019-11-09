@@ -24,6 +24,5 @@ There are just a few rules that every developer must always follow:
 In addition to the set of rules listed above there are some technology specific rules that every developer at Photon Software must also follow. These rules would only apply if the technology is being utilized in the project.
 
 * [Wordpress](wordpress)  
-* [Javascript](javascript)  
-* [Clients](clients)
+* [Javascript](javascript)
 

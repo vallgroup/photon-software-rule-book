@@ -7,5 +7,6 @@ Welcome to the Photon Software Rule Book! Here you will find a clear list of thi
 3. Tracking your progress and [Project Management](Project%20Management).  
 4. [Email etiquette](Email%20Etiquette).  
 5. Schedule and [business hours](Business%20Hours).  
-6. [Writing code](Writing%20Code).
+6. [Writing code](Writing%20Code).  
+7. Learn our [QA Process](QA%20Process).
 

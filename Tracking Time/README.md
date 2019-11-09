@@ -18,3 +18,5 @@ Yes. All project related communication is billable. However long it takes you to
 
 **So what is not billable?**  
 Some internal communications will not be billable. The most common scenario is if you run into an issue and need help. If a senior developer jumps on a video call with you and you both spend an hour working through an issue, that time is not billable.
+
+Go to [Communicating with the team](Team%20Communication).
