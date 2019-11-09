@@ -274,4 +274,4 @@ export const Paragraph = styled.p.attrs(props => ({
 `
 ```
 
-Go to [PHP](../PHP).
+Go to [PHP](../../PHP).
