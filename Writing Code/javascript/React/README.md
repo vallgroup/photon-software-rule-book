@@ -58,7 +58,7 @@ const Example = React.createClass({
 Always use [style-components](https://www.styled-components.com/docs/basics) over SASS files. 
 
 **Instead of this:**  
-```js
+```jsx
 import './SomeFile.scss'
 //...
 function Example({firstName, lastName}) {
@@ -75,7 +75,7 @@ function Example({firstName, lastName}) {
 ```
 
 **Write the same thing like this:**  
-```js
+```jsx
 import {
 	FirstName,
 	LastName
@@ -95,7 +95,7 @@ function Example({firstName, lastName}) {
 ```
 
 **And your components file looks like this**  
-```js
+```jsx
 import styled from 'styled-components'
 
 export const FirstName = styled.div`
@@ -109,7 +109,7 @@ export const LastName = styled.div`
 
 ## Alignment
 
-```js
+```jsx
 // bad
 <Foo superLongParam="bar"
      anotherSuperLongParam="baz" />
