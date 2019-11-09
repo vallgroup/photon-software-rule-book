@@ -2,12 +2,10 @@
 
 As a Photon Software coder, you must always, without exception, follow this simple set of rules:
 
-* **Comment your code -** Comment all classes, functions, and variables in your code; no exceptions. Make it easier for future developers (including yourself) to jump right in and follow the logic  
-* **Write Semantic Code -** Always be purposeful with the way you name your functions. A good practice is to name your functions after you have written them.  
+* **Comment your code -** Comment all classes, functions, and variables in your code; no exceptions. Make it easier for future developers (including yourself) to jump right in and follow your logic  
+* **Write Semantic Code -** Always be purposeful with the way you name your functions. A good practice is to name your functions after you write them.  
 * **DRY -** Don't Reapeat Yourself. No body's perfect, but always read through your code to spot inefficiencies.  
 * **Readability over efficiency -** Be efficient in your logic, not in trying to write it all in one line. The easier it is to read your code, the easier it is to maintain it, even for you!
-
-Following these simple set of rules allows us to produce scalable and maintainable code. Any developer that does not follow these rules will not be quilified to write code for Photon Software at any capacity.
 
 ### Workflow
 
@@ -25,5 +23,7 @@ In addition to the set of rules listed above there are some technology specific 
 
 * [Wordpress](wordpress)  
 * [Javascript](javascript)
+
+Following these simple set of rules allows us to produce scalable and maintainable code. Any developer that does not follow these rules will not be quilified to write code for Photon Software at any capacity.
 
 Go to [Learn our QA Process](../QA%20Process).
