@@ -94,7 +94,7 @@ function Example({firstName, lastName}) {
 }
 ```
 
-**And your componenets file looks like this**  
+**And your components file looks like this**  
 ```js
 import styled from 'styled-components'
 
