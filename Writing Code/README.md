@@ -26,3 +26,4 @@ In addition to the set of rules listed above there are some technology specific 
 * [Wordpress](wordpress)  
 * [Javascript](javascript)
 
+Go to [Learn our QA Process](../QA%20Process).
