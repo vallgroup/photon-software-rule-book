@@ -244,7 +244,7 @@ export const H1 = styled.h1.attrs(props => ({
 
 export const H2 = styled.h2.attrs(props => ({
 	defaultProp: props.someProp || 'my own value',
-	}))`
+}))`
 	// if no styles are changed the sass styles above
 	// will control this component
 `
@@ -259,7 +259,7 @@ export const H6 = styled.h6.attrs(props => ({}))``
 
 export const Paragraph = styled.p.attrs(props => ({
 	large: props.large || false
-	}))`
+}))`
 	// make changes to the current styles based on props passed
 	text-transform: ${props => props.large ? 'uppercase' : 'none'};
 	font-size: ${props => props.large ? '1.5em' : '1em'};
