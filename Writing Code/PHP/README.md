@@ -6,4 +6,4 @@ Every Photon Software backend developer shall always write Object Oriented PHP. 
 
 Every backend developer is expected to ensure all data is properly validated before saving or outputting any values to and from the database.  
 
-Go back to [Writing Code](../)
+Go back to [Writing Code](../#technology-specific-rules)
