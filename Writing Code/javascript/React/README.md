@@ -34,7 +34,7 @@ function Example = () => {
   );
 }
 
-// ONLY IF NEEDED
+// GOOD, ONLY IF NEEDED
 class Example extends React.Component {
   //...
 
@@ -51,4 +51,54 @@ const Example Reac.tcreateClass({
   	return <div>{this.state.count}</div>;
   }
 })
+```
+
+## Use Styled Components over SASS
+
+Always use [style-components](https://www.styled-components.com/docs/basics) over SASS files. 
+
+```jsx
+// instead of this
+import './SomeFile.scss'
+//...
+function Example({firstName, lastName}) {
+  //...
+  return (<Fragment>
+    <div className={"firstName"}>
+    	{firstName}
+    </div>
+    <div className={"lastName"}>
+    	{lastName}
+    </div>
+  </Fragment>);
+}
+
+// Write this
+import {
+	FirstName,
+	LastName
+} from './components'
+//...
+function Example({firstName, lastName}) {
+  //...
+  return (<Fragment>
+    <FirstName>
+    	{firstName}
+    </FirstName>
+    <LastName>
+    	{lastName}
+    </LastName>
+  </Fragment>);
+}
+
+// And your componenets file looks like this
+import styled from 'styled-components'
+
+export const FirstName = styled.div`
+	// some sasss
+`
+
+export const LastName = styled.div`
+	// some sasss
+`
 ```
