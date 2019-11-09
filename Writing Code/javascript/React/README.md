@@ -176,8 +176,7 @@ Helpers have the following structure:
 // or
 - Helpers
   |- Topic
-    |- index.js // helper related to a specific topic. Like Money helpers to format money, 
-    						// or perform quick financial calculations.
+    |- index.js // helper related to a specific topic. Like Money helpers to format money, or perform quick financial calculations.
 ```
 
 ## Use of SASS
