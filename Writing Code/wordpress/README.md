@@ -8,6 +8,6 @@ I vow to...
 * ALWAYS use Wordpress as an Application Framwork (head-less theme) and use React for the frontend, unless otherwise specified in the project.  
 * ALWAYS update versions accordingly (`major.minor[.build[.revision]]`) when making changes to exisiting plugins and/or themes.   
 * Never make code customizations in the database, including the Wordpress Customizer *Custom CSS* editor.
-* ALWAYS research and leverage Wordpress' built-in hooks, filters and loop.
+* ALWAYS research and leverage Wordpress' built-in hooks, filters and loop before writing my own.
 
 Go to [Javascript](../javascript).
