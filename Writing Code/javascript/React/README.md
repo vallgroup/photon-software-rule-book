@@ -181,7 +181,7 @@ Helpers have the following structure:
 
 ## Use of SASS
 
-SASS will always be used on every project. Global styles for typography, html elements, and CSS resets will al be declared in SASS. Styled components are used to leverage props and other React features while still taking advantage of those global styles set by SASS.
+SASS will always be used on every project. Global styles for typography, html elements, and CSS resets will all be declared in SASS. Styled components are used to leverage props and other React features while still taking advantage of those global styles set by SASS.
 
 For example, I can set all typography styles using SASS like this:  
 ```scss
@@ -249,33 +249,13 @@ export const H2 = styled.h2.attrs(props => ({
 	// will control this component
 `
 
-export const H3 = styled.h3.attrs(props => ({
-	defaultProp: props.someProp || 'my own value',
-	}))`
-	// if no styles are changed the sass styles above
-	// will control this component
-`
+export const H3 = styled.h3.attrs(props => ({}))``
 
-export const H4 = styled.h4.attrs(props => ({
-	defaultProp: props.someProp || 'my own value',
-	}))`
-	// if no styles are changed the sass styles above
-	// will control this component
-`
+export const H4 = styled.h4.attrs(props => ({}))``
 
-export const H5 = styled.h5.attrs(props => ({
-	defaultProp: props.someProp || 'my own value',
-	}))`
-	// if no styles are changed the sass styles above
-	// will control this component
-`
+export const H5 = styled.h5.attrs(props => ({}))``
 
-export const H6 = styled.h6.attrs(props => ({
-	defaultProp: props.someProp || 'my own value',
-	}))`
-	// if no styles are changed the sass styles above
-	// will control this component
-`
+export const H6 = styled.h6.attrs(props => ({}))``
 
 export const Paragraph = styled.p.attrs(props => ({
 	defaultProp: props.someProp || 'my own value',
