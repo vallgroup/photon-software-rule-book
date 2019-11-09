@@ -1,5 +1,21 @@
 # Javascript Coding Standards
 
+### No jQuery
+
+Unless working on outdated technology, no Photon Software developer will resort to jQuery to build new functionality.
+
+When writing functionaity for the front end, it shall be written in either React or pure JavaScript.
+
+### Naming Variables
+
+Always use semantic names.
+
+Only use `_` underscores for private variables.
+
+Always user `const` and `let` over `var`.
+
+Declare variables that do not change only once. Declare all other variables when you first need them, and always keep a cached version to avoid re declaring if the value has not changed.
+
 ### Objects
 
 ```js
@@ -269,18 +285,4 @@ try {
 }
 ```
 
-### No jQuery
-
-Unless working on outdated technology, no Photon Software developer will resort to jQuery to build new functionality.
-
-When writing functionaity for the front end, ir shall be written in either React or pure JavaScript.
-
-### Naming Variables
-
-Always use semantic names.
-
-Only use `_` underscores on private variables.
-
-Always user `const` and `let` over `var`.
-
-Declare variables that do not change only once. Declare all other variables when you first need them, and always keep a cached version to avoid re declaring if the value has not changed.
+Continue to [React](React)
