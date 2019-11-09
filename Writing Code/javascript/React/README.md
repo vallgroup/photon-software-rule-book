@@ -258,7 +258,6 @@ export const H5 = styled.h5.attrs(props => ({}))``
 export const H6 = styled.h6.attrs(props => ({}))``
 
 export const Paragraph = styled.p.attrs(props => ({
-	defaultProp: props.someProp || 'my own value',
 	large: props.large || false
 	}))`
 	// make changes to the current styles based on props passed
