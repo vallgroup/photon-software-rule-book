@@ -2,7 +2,7 @@
 
 Welcome to the Photon Software Rule Book! 
 
-As a Photon Software Team Memeber you vow to read, understand and follow the following set of rules. If you are not a developer you may skip through the *Writing Code* section.
+As a Team Memeber at Photon Software you vow to read, understand, and follow the following set of rules. If you are not a developer you may skip through the *Writing Code* section.
 
 1. Let's begin with [tracking your time](Tracking%20Time).  
 2. [Communicating with the team](Team%20Communication).  
