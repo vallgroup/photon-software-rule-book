@@ -1,10 +1,12 @@
 # Tracking Your Time
 
 **How do we track hours?**  
-We track hours using [Premise Time Tracker](https://premisetimetracker.com). The app has a chrome extension that makes it extremely easy to track your time per task. When tracking your time make sure to:  
+We track hours using [Premise Time Tracker](https://premisetimetracker.com). The app has a chrome extension that makes it extremely easy to track your time per task.
+
+When tracking your time, you must always:  
 * Include a Client.  
 * Include a Project.  
-* Always track your time as you go. Never wait until the end of the week to enter all your time.
+* Track as you go. Never wait until the end of the week to enter all your time.
 
 Sometimes knowing what is billable can be a little hazy. Here are some notes that can answer common questions around tracking hours and what is billable work. 
 
