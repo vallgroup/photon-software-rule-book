@@ -12,4 +12,4 @@ All bugs reported **MUST** include **ALL** of the following:
 
 **Bug reports missing any of the above information will be returned until completed.**
 
-Go back to [Rule Book](../)
+Go back to [Rule Book](https://github.com/vallgroup/photon-software-rule-book)
