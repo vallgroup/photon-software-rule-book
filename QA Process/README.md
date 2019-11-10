@@ -11,3 +11,5 @@ All bugs reported **MUST** include **ALL** of the following:
 * Name and version of the browser AND operating system used when the issue occurred
 
 **Bug reports missing any of the above information will be returned until completed.**
+
+Go back to [Rule Book](../)
