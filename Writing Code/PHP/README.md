@@ -11,24 +11,24 @@ Always validate and escape data before displaying it or saving it to a database.
 ```php
 // GOOD
 if ( isset( $array['key'] ) && ! empty( $array['key'] ) ) {
-	// do somthing
+	// do something
 }
 
 // GOOD
 if ( isset( $array['key'] )
 	&& ! empty( $array['key'] ) ) {
-	// do somthing
+	// do something
 }
 
 // BAD
 if (isset($array['key']) && !empty($array['key'])) {
-	// do somthing
+	// do something
 }
 
 // BAD
 if ( isset( $array['key'] ) && ! empty( $array['key'] ) ) 
 {
-	// do somthing
+	// do something
 }
 
 // GOOD
@@ -36,12 +36,12 @@ if ( isset( $array['key'] )
 	&& ! empty( $array['key'] )
 	&& isset( $array['another_key'] )
 	&& ! empty( $array['another_key'] ) ) {
-	// do somthing
+	// do something
 }
 
 // BAD
 if ( isset( $array['key'] ) && ! empty( $array['key'] ) && isset( $array['another_key'] ) && ! empty( $array['another_key'] ) ) {
-	// do somthing
+	// do something
 }
 ```
 
