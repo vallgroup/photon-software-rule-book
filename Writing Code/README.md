@@ -7,7 +7,8 @@ As a Photon Software coder, you must always, without exception, follow this simp
 * **Comment your code -** Comment all classes, functions, and variables in your code; no exceptions. Make it easier for future developers (including yourself) to jump right in and follow your logic  
 * **Write Semantic Code -** Always be purposeful with the way you name your functions. A good practice is to name your functions after you write them.  
 * **DRY -** Don't Reapeat Yourself. No body's perfect, but always read through your code to spot inefficiencies.  
-* **Readability over efficiency -** Be efficient in your logic, not in trying to write it all in one line. The easier it is to read your code, the easier it is to maintain it, even for you!
+* **Readability over efficiency -** Be efficient in your logic, not in trying to write it all in one line. The easier it is to read your code, the easier it is to maintain it, even for you!  
+* **Tabs vs Spaces -** Spaces! Whether you are writting PHP or JavaScript (our most common languages), or any other language, **always indent with 2 Spaces**.
 
 ### Workflow
 
